@@ -1,8 +1,29 @@
 {
-  "name": "nopyprompt",
+    "name": "nopyprompt",
 	"displayName": "NoPyPrompt",
 	"description": "Removes >>> and ... from copy/pasted Python shell code and comments out the outputs. And vice versa.",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"publisher": "AurelienGeron",
+    "author": {
+        "name": "Aurélien Geron"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/ageron/NoPyPrompt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ageron/NoPyPrompt"
+    },
+    "bugs": {
+        "url": "https://github.com/ageron/NoPyPrompt/issues"
+    },
+	"icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1e4050",
+        "theme": "dark"
+    },
+    "keywords": [
+        "python"
+    ],
 	"engines": {
 		"vscode": "^1.60.0"
 	},
