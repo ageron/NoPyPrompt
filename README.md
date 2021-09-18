@@ -1,6 +1,6 @@
-# nopyprompt README
+# NoPyPrompt VS Code Extension
 
-NoPyPrompt is a simple VS Code extension so remove >>> Python prompts from code examples, or to add them.
+NoPyPrompt is a VS Code extension to remove Python prompts (`>>>` and `...`) from code samples, or add them back.
 
 ## Features
 
